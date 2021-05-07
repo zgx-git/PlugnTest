@@ -1,0 +1,4 @@
+include ':app'
+include ':HelloPlugin'
+include ':apkrename-plugin'
+rootProject.name = "PlugnTest"
